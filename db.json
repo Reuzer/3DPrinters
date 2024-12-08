@@ -1,0 +1,150 @@
+{
+  "printers": [
+    {
+      "id": "8784996",
+      "name": "Принтер 1",
+      "printSpeed": 10,
+      "coil": {
+        "id": "9622175",
+        "name": "test",
+        "material": "Пластик",
+        "color": "#C71585",
+        "printerId": "8784996",
+        "length": 95685
+      },
+      "queue": [],
+      "isPrinting": true
+    },
+    {
+      "id": "6040762",
+      "name": "Принтер 2",
+      "printSpeed": 10,
+      "coil": {
+        "id": "325035",
+        "name": "test 2",
+        "material": "Пластик",
+        "color": "#FF4500",
+        "printerId": "6040762",
+        "length": 9500
+      },
+      "queue": [],
+      "isPrinting": true
+    }
+  ],
+  "coils": [
+    {
+      "id": "9622175",
+      "name": "test",
+      "material": "Пластик",
+      "color": "#C71585",
+      "printerId": "8784996",
+      "length": 95685
+    },
+    {
+      "id": "325035",
+      "name": "test 2",
+      "material": "Пластик",
+      "color": "#FF4500",
+      "printerId": "6040762",
+      "length": 9500
+    }
+  ],
+  "figures": [
+    {
+      "id": "3257342",
+      "name": "test",
+      "perimeter": 100,
+      "time": 123,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "7359112",
+      "name": "Конь",
+      "perimeter": 40,
+      "time": 80,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "3604613",
+      "name": "Котик",
+      "perimeter": 45,
+      "time": 45,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "9736569",
+      "name": "Котик",
+      "perimeter": 45,
+      "time": 45,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "8543618",
+      "name": "test",
+      "perimeter": 100,
+      "time": 123,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "4147101",
+      "name": "Котик",
+      "perimeter": 45,
+      "time": 45,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "7009550",
+      "name": "test",
+      "perimeter": 100,
+      "time": 123,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "9123885",
+      "name": "Заяц",
+      "perimeter": 30,
+      "time": 30,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "6392253",
+      "name": "Заяц",
+      "perimeter": 30,
+      "time": 30,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "8148760",
+      "name": "Заяц",
+      "perimeter": 30,
+      "time": 30,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "5007450",
+      "name": "Заяц",
+      "perimeter": 30,
+      "time": 30,
+      "status": "готовый",
+      "color": "#C71585"
+    },
+    {
+      "id": "822680",
+      "name": "Заяц",
+      "perimeter": 30,
+      "time": 30,
+      "status": "готовый",
+      "color": "#C71585"
+    }
+  ]
+}
