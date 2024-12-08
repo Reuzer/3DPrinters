@@ -2,12 +2,12 @@
 Работа с fetch api, setIntercval, callback-функциями, фреймворк vue, ts, vitest, json-server
 
 
-#Запуск проекта:
+# Запуск проекта:
 
 npm install
 npx json-server db.json
 npm run dev
 
-#Запуск тестов:
+# Запуск тестов:
 
 npm run test
