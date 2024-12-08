@@ -4,9 +4,9 @@
 
 # Запуск проекта:
 
-npm install
-npx json-server db.json
-npm run dev
+npm install<br>
+npx json-server db.json<br>
+npm run dev<br>
 
 # Запуск тестов:
 
